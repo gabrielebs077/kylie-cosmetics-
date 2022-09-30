@@ -1,7 +1,12 @@
-h1{
-    color: pink;
-    background: paleturquoise;
+body{
+background-color: rgb(245, 3, 104);
 }
-p{font-family: sans-serif;
+h1{
+color: pink;
+background: paleturquoise;
+{font-family: sans-serif;
 
 }
+p{
+color:black;
+font-family: sans-serif;
