@@ -4,9 +4,11 @@ background-color: rgb(245, 3, 104);
 h1{
 color: pink;
 background:rgb(168, 2, 58);
-{font-family: sans-serif;
+font-family: sans-serif;
+}
 
 }
 p{
 color:black;
 font-family: sans-serif;
+}
